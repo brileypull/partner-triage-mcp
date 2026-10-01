@@ -1,0 +1,14 @@
+﻿[
+  {"partner_id":"P001","certified_people":6,"required_for_tier":5,"next_expiry":"2027-02-14"},
+  {"partner_id":"P002","certified_people":3,"required_for_tier":3,"next_expiry":"2027-01-20"},
+  {"partner_id":"P003","certified_people":7,"required_for_tier":5,"next_expiry":"2027-03-31"},
+  {"partner_id":"P004","certified_people":3,"required_for_tier":5,"next_expiry":"2026-12-09"},
+  {"partner_id":"P005","certified_people":4,"required_for_tier":3,"next_expiry":"2026-10-19"},
+  {"partner_id":"P006","certified_people":1,"required_for_tier":1,"next_expiry":"2027-01-05"},
+  {"partner_id":"P007","certified_people":3,"required_for_tier":3,"next_expiry":"2026-12-15"},
+  {"partner_id":"P008","certified_people":2,"required_for_tier":1,"next_expiry":"2027-04-22"},
+  {"partner_id":"P009","certified_people":1,"required_for_tier":1,"next_expiry":"2027-02-02"},
+  {"partner_id":"P010","certified_people":5,"required_for_tier":3,"next_expiry":"2027-05-18"},
+  {"partner_id":"P011","certified_people":1,"required_for_tier":1,"next_expiry":"2026-11-27"},
+  {"partner_id":"P012","certified_people":5,"required_for_tier":5,"next_expiry":"2027-03-08"}
+]

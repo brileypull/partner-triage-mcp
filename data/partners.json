@@ -1,0 +1,14 @@
+﻿[
+  {"id":"P001","name":"Northwind Consulting","tier":"Gold","region":"West","partner_manager":"Dana Reyes","status":"active","joined":"2021-03-15"},
+  {"id":"P002","name":"Northway Partners","tier":"Silver","region":"East","partner_manager":"Marcus Whitfield","status":"active","joined":"2022-07-11"},
+  {"id":"P003","name":"Bluepeak Systems","tier":"Gold","region":"Central","partner_manager":"Priya Anand","status":"active","joined":"2020-11-02"},
+  {"id":"P004","name":"Harbor Lane Technologies","tier":"Gold","region":"EMEA","partner_manager":"Dana Reyes","status":"active","joined":"2021-09-20"},
+  {"id":"P005","name":"Cedarline Solutions","tier":"Silver","region":"West","partner_manager":"Tomas Lindqvist","status":"active","joined":"2023-02-06"},
+  {"id":"P006","name":"Quillfeather Digital","tier":"Registered","region":"Central","partner_manager":"Priya Anand","status":"suspended","joined":"2024-01-29"},
+  {"id":"P007","name":"Ironbridge Analytics","tier":"Silver","region":"EMEA","partner_manager":"Marcus Whitfield","status":"active","joined":"2022-04-18"},
+  {"id":"P008","name":"Saltmarsh Group","tier":"Registered","region":"East","partner_manager":"Tomas Lindqvist","status":"active","joined":"2024-06-03"},
+  {"id":"P009","name":"Tallowmere Networks","tier":"Registered","region":"EMEA","partner_manager":"Priya Anand","status":"active","joined":"2025-02-24"},
+  {"id":"P010","name":"Pinegate Software Services","tier":"Silver","region":"Central","partner_manager":"Marcus Whitfield","status":"active","joined":"2023-10-09"},
+  {"id":"P011","name":"Copperfield Advisory","tier":"Registered","region":"West","partner_manager":"Dana Reyes","status":"active","joined":"2025-05-12"},
+  {"id":"P012","name":"Lumenfall Integrators","tier":"Gold","region":"East","partner_manager":"Tomas Lindqvist","status":"active","joined":"2020-08-17"}
+]

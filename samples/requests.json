@@ -1,0 +1,62 @@
+[
+  {
+    "id": "S01",
+    "from": "maya@northwind.example",
+    "subject": "Conflict notice on Acme",
+    "body": "Hi team, we registered Acme Corp on Sept 14 but got a conflict notice yesterday. We've been working this deal for months. Can you help sort this out?"
+  },
+  {
+    "id": "S02",
+    "from": "jordan@bluepeak.example",
+    "subject": "Partnership?",
+    "body": "Hello, we're a 40-person consultancy in Denver and we'd love to become a partner. What's the process?"
+  },
+  {
+    "id": "S03",
+    "from": "alex@northway.example",
+    "subject": "Partnership Program",
+    "body": "Hi there, we heard about the partnership program at the tech conference in ohio last weekend, interested in learning more! thanks"
+  },
+  {
+    "id": "S04",
+    "from": "brian@harborlane.example",
+    "subject": "new customrer request",
+    "body": "Hello team, we want to register hooli media as a new customer, we had an informal chat with their CFO, do we need details from you before we formally bring it to them or how does the process work?"
+  },
+  {
+    "id": "S05",
+    "from": "catalina@cedarlinesolutions.example",
+    "subject": "silver to gold?",
+    "body": "Hi guys! we're currently a silver tier partner and would like to advance to gold. Can you let us know what the reqs are :) thanks!"
+  },
+  {
+    "id": "S06",
+    "from": "derek@quillfeather.example",
+    "subject": "Cert Q for small team",
+    "body": "Hi all, our engineering dept is quite small and we all work closely. Given that we don't feel the need to have everyone certified, how much is it for say 2 certifications? thx"
+  },
+  {
+    "id": "S07",
+    "from": "emery@ironbridge.example",
+    "subject": "Upcoming marketing event",
+    "body": "Hi there! I represent our marketing team at Ironbridge Analytics and we are looking to utilize our budget for a event webinar! Is funding included as part of our partnetship? As a reminder we are a silver tier partner! thanks"
+  },
+  {
+    "id": "S08",
+    "from": "frank@saltmarsh.example",    
+    "subject": "Partnership questions",
+    "body": "Hello there we were wondering what benefits does the gold tier have that the silver doesnt? also how many certifications are need for each tier?"
+  },
+  {
+    "id": "S09",
+    "from": "grant@tallowmere.example",
+    "subject": "Integration not working",
+    "body": "As the subject suggests are new integration isn't working and we need help with this ASAP, please let me know who I should contact to help resolve this, thanks" 
+  },
+  {
+    "id": "S10",
+    "from": "hank@aspiretech.example",
+    "subject": "Interested in the program",
+    "body": "Hi there, we want to learn more about your program offerings, where should we get started?"
+  }
+]

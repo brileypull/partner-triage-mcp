@@ -1,0 +1,17 @@
+﻿[
+  {"id":"D001","partner_id":"P003","customer":"Acme Corp","registered_on":"2026-08-12","status":"approved","expires_on":"2026-11-10"},
+  {"id":"D002","partner_id":"P010","customer":"Acme Corp","registered_on":"2026-09-18","status":"pending","expires_on":"2026-12-17"},
+  {"id":"D003","partner_id":"P001","customer":"Globex Logistics","registered_on":"2026-07-06","status":"approved","expires_on":"2026-11-02"},
+  {"id":"D004","partner_id":"P001","customer":"Initech Health","registered_on":"2026-09-22","status":"pending","expires_on":"2026-12-21"},
+  {"id":"D005","partner_id":"P002","customer":"Umbrella Freight","registered_on":"2026-02-10","status":"expired","expires_on":"2026-05-11"},
+  {"id":"D006","partner_id":"P004","customer":"Vandelay Imports","registered_on":"2026-08-03","status":"approved","expires_on":"2026-11-01"},
+  {"id":"D007","partner_id":"P005","customer":"Stark Fabrication","registered_on":"2026-05-19","status":"expired","expires_on":"2026-08-17"},
+  {"id":"D008","partner_id":"P006","customer":"Wayne Textiles","registered_on":"2026-09-01","status":"pending","expires_on":"2026-11-30"},
+  {"id":"D009","partner_id":"P007","customer":"Hooli Media","registered_on":"2026-06-14","status":"rejected","expires_on":"2026-09-12"},
+  {"id":"D010","partner_id":"P008","customer":"Soylent Foods","registered_on":"2026-09-09","status":"approved","expires_on":"2026-12-08"},
+  {"id":"D011","partner_id":"P009","customer":"Pied Piper Cloud","registered_on":"2026-01-27","status":"expired","expires_on":"2026-04-27"},
+  {"id":"D012","partner_id":"P012","customer":"Oscorp Biotech","registered_on":"2026-08-25","status":"approved","expires_on":"2026-11-23"},
+  {"id":"D013","partner_id":"P011","customer":"Cyberdyne Retail","registered_on":"2026-09-15","status":"rejected","expires_on":"2026-12-14"},
+  {"id":"D014","partner_id":"P002","customer":"Massive Dynamic","registered_on":"2026-09-26","status":"pending","expires_on":"2026-12-25"},
+  {"id":"D015","partner_id":"P012","customer":"Gringotts Finance","registered_on":"2026-04-08","status":"expired","expires_on":"2026-07-07"}
+]
