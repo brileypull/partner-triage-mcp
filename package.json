@@ -1,0 +1,35 @@
+{
+  "name": "partner-triage-mcp",
+  "version": "1.0.0",
+  "description": "Claude-powered partner-ops triage agent with a custom MCP server",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+  "server": "tsx src/server/index.ts",
+  "inspect": "npx @modelcontextprotocol/inspector npx tsx src/server/index.ts",
+  "typecheck": "tsc"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brileypull/partner-triage-mcp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/brileypull/partner-triage-mcp/issues"
+  },
+  "homepage": "https://github.com/brileypull/partner-triage-mcp#readme",
+  "dependencies": {
+    "@modelcontextprotocol/server": "^2.3.1",
+    "tsx": "^4.23.15",
+    "zod": "^4.6.6"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.5",
+    "typescript": "^7.0.2"
+  }
+}

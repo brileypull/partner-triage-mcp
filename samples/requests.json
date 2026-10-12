@@ -45,7 +45,7 @@
     "id": "S08",
     "from": "frank@saltmarsh.example",    
     "subject": "Partnership questions",
-    "body": "Hello there we were wondering what benefits does the gold tier have that the silver doesnt? also how many certifications are need for each tier?"
+    "body": "Hello there our certification voucher just expired, how do we renew? also we got a conflict notice due friday for oscorp biotech."
   },
   {
     "id": "S09",
@@ -55,8 +55,8 @@
   },
   {
     "id": "S10",
-    "from": "hank@aspiretech.example",
-    "subject": "Interested in the program",
-    "body": "Hi there, we want to learn more about your program offerings, where should we get started?"
+    "from": "priya@lakeshoredigital.example",
+    "subject": "status of our registration",
+    "body": "Hi, Priya here from Lakeshore Digital. We registered Initech back in August and haven't heard anything. Can you tell me where it stands and whether anyone else has registered them? thanks"
   }
 ]

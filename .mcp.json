@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "partner-ops": {
+      "type": "stdio",
+      "command": "npx",
+      "args": [
+        "tsx",
+        "src/server/index.ts"
+      ],
+      "env": {}
+    }
+  }
+}

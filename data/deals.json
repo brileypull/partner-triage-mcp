@@ -1,4 +1,4 @@
-﻿[
+[
   {"id":"D001","partner_id":"P003","customer":"Acme Corp","registered_on":"2026-08-12","status":"approved","expires_on":"2026-11-10"},
   {"id":"D002","partner_id":"P010","customer":"Acme Corp","registered_on":"2026-09-18","status":"pending","expires_on":"2026-12-17"},
   {"id":"D003","partner_id":"P001","customer":"Globex Logistics","registered_on":"2026-07-06","status":"approved","expires_on":"2026-11-02"},

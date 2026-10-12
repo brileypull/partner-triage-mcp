@@ -1,4 +1,4 @@
-﻿[
+[
   {"id":"P001","name":"Northwind Consulting","tier":"Gold","region":"West","partner_manager":"Dana Reyes","status":"active","joined":"2021-03-15"},
   {"id":"P002","name":"Northway Partners","tier":"Silver","region":"East","partner_manager":"Marcus Whitfield","status":"active","joined":"2022-07-11"},
   {"id":"P003","name":"Bluepeak Systems","tier":"Gold","region":"Central","partner_manager":"Priya Anand","status":"active","joined":"2020-11-02"},
